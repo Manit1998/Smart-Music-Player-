@@ -3,5 +3,5 @@ It is a smart music player which play the music according your emotion . It code
 For use this --
 1- Install vlc in your laptop
 2- then Install some libraries--
-   * cv2,time,keras,os,subprocess
+   * cv2,time,keras,os,subprocess.
 
